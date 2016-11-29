@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Client.cs" />
     <Compile Include="Assets\Scripts\JoinServer.cs" />
     <Compile Include="Assets\Scripts\Server.cs" />
+    <Compile Include="Assets\newScript.cs" />
     <Compile Include="Assets\script.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
