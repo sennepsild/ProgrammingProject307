@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Client.cs" />
+    <Compile Include="Assets\Dice.cs" />
     <Compile Include="Assets\Scripts\Client.cs" />
     <Compile Include="Assets\Scripts\JoinServer.cs" />
     <Compile Include="Assets\Scripts\Server.cs" />
