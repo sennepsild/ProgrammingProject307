@@ -66,12 +66,8 @@
     <Compile Include="Assets\Scripts\Client.cs" />
     <Compile Include="Assets\Scripts\JoinServer.cs" />
     <Compile Include="Assets\Scripts\Server.cs" />
-<<<<<<< HEAD
     <Compile Include="Assets\Scripts\mouseClick.cs" />
-=======
     <Compile Include="Assets\newScript.cs" />
-    <Compile Include="Assets\script.cs" />
->>>>>>> a7e08596840e0918210d0c5cb02be01b5837e2d9
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
